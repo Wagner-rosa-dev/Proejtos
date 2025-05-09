@@ -1,2 +1,2 @@
-# Proejtos
+# Projetos
 Projetos Pessoais/Estudo
